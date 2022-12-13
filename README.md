@@ -80,6 +80,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+[Live Demo Link](https://yaredtekle022.github.io/portfolio-dektop-version)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +88,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Online version: https://yaredtekle022.github.io
 
 To get a local copy up and running, follow these steps.
 
