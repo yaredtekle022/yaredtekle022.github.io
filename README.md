@@ -59,14 +59,14 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Finishing Mobile Version Portfolio] <a name="about-project"></a>
 
-> Portfolio: Desktop version
+> Portfolio: Responsive Web with popup
 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Git, Github, HTML, CSS
+> Git, Github, HTML, CSS, JS
 
 <!-- Features -->
 
@@ -80,7 +80,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link](https://yaredtekle022.github.io/portfolio-dektop-version)
+[Live Demo Link](https://yaredtekle022.github.io/portfolio-responsive-js)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +101,7 @@ Example command:
 
 To clone this repo run this command
 
-git clone https://github.com/yaredtekle022/portfolio-dektop-version
+git clone https://github.com/yaredtekle022/portfolio-responsive-js
 
 <!--
 Example commands:
